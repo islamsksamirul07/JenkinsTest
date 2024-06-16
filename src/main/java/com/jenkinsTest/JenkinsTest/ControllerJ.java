@@ -8,7 +8,7 @@ public class ControllerJ {
 	
 	@GetMapping("/data")
 	public String get() {
-		return "This is Spring boot data hello";
+		return "This is Spring boot data hellooooo";
 	}
 
 }
